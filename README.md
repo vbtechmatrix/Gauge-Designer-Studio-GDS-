@@ -33,4 +33,5 @@ Jokes aside, this can run really easily on any pc that has at least a little of 
 - First install fonts, then you can open the app.
 - UDP simulation is a work in progress.
 
+# Logo
 <img width="550" height="550" alt="GDS" src="https://github.com/user-attachments/assets/3479a31f-0cc3-4389-8a13-0b46a9d4302f" />
