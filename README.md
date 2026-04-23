@@ -1,7 +1,7 @@
 # Gauge-Designer-Studio-GDS-
-A Python-based program for Windows that can help you design your own gauge in a simple and fun way
+A Python-based program for Windows that can help you design your own gauge in a simple and fun way.
 
-This app was born out of necessity: the need to use my own designs in my driving sim's custom tachometer. I tried other generic drawing software, but it was difficult, imprecise, and frustrating. So I decided to share my work with others as well. Whether designing sporty custom graphics or simply reproducing existing ones for repairs, the results came out as perfect replicas.
+This app was born out of necessity: the need to use my own designs in my driving sim's custom tachometer. I tried other generic drawing software, but it was difficult, imprecise, and frustrating. So I decided to share my work with others as well. Whether designing sporty custom graphics or simply reproducing existing ones for repairs, the results came out as perfect replicas. Have fun!
 
 ## Contacts
 If you have some suggestions or improvements, feel free to write an e-mail to logigamer2007@gmail.com. I'm available at any hour of any day. Immediate response up to 1 or 2 days, in mostly cases i respond in some hours.
