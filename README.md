@@ -3,6 +3,9 @@ A Python-based program for Windows that can help you design your own gauge in a 
 
 This app was born out of necessity: the need to use my own designs in my driving sim's custom tachometer. I tried other generic drawing software, but it was difficult, imprecise, and frustrating. So I decided to share my work with others as well. Whether designing sporty custom graphics or simply reproducing existing ones for repairs, the results came out as perfect replicas.
 
+## Contacts
+If you have some suggestions or improvements, feel free to write an e-mail to logigamer2007@gmail.com. I'm available at any hour of any day. Immediate response up to 1 or 2 days, in mostly cases i respond in some hours.
+
 ## Main features
 - **Project tab:** The main tab where you can save and load your design, undo and redo changes, change the language (currently English and Italian only), swap the unit with a ratio (pixels or centimeters), and adjust final export settings and formats.
 
