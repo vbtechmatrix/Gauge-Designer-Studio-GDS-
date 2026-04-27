@@ -25,7 +25,7 @@ If you have some suggestions or improvements, feel free to write an e-mail to lo
 
 - **Lock Dashboard Resize button:** Did you know the settings panel is resizable? If that bothers you, this button prevents resizing.
 
-## Minimum system requirements:
+## Minimum system requirements
 - Electricity :)
 
 Jokes aside, this can run really easily on any pc that has at least a little of GPU power. Tested (at full potential with really complex design) on `i5-7200U`, `HD Graphics 620` at `1920x1080` and it works like a charm!
